@@ -35,4 +35,5 @@ index++;
 }
 
 return (str);
+}
 
