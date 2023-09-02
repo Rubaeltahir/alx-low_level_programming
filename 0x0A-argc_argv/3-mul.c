@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include "main.h"
 
@@ -71,5 +72,6 @@ printf("%d\n", result);
 
 return (0);
 }
+
 
 
